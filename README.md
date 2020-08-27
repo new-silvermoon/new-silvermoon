@@ -15,6 +15,25 @@ A sophisticated individual with 6 years of software development experience. I lo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
+**My arsenal comprises of**
+
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
+![AWS](https://img.shields.io/badge/-Amazon-000000?style=flat&logo=Amazon)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=OpenGl)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![GraphQL](https://img.shields.io/badge/-Graphql-000000?style=flat&logo=Graphql)
+![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
+
+
 
 Skills: Android, Java, Kotlin, Python
 
