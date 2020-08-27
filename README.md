@@ -32,16 +32,11 @@ A sophisticated individual with 6 years of software development experience. I lo
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-
-
-
-Skills: Android, Java, Kotlin, Python
-
+- 😄 Pronouns: He/Him 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Quantum Computing 
 - 👯 I’m looking to collaborate on Android apps 
 - 📫 How to reach me: faith.frontiers@gmail.com 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love talking in Batman's voice 
 
 
