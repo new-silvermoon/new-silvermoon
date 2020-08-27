@@ -20,7 +20,7 @@ A sophisticated individual with 6 years of software development experience. I lo
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
-![AWS](https://img.shields.io/badge/-Amazon-000000?style=flat&logo=Amazon)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=OpenGl)
