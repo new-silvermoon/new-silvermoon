@@ -4,6 +4,18 @@
 
 A sophisticated individual with 6 years of software development experience. I love systems application development. My toolkit comprises of Android and Computer Vision.
 
+**I talk to computers using**
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+
 Skills: Android, Java, Kotlin, Python
 
 - 🔭 I’m currently working on this page. 
