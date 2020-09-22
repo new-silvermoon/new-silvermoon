@@ -37,7 +37,12 @@ A sophisticated individual with 6 years of software development experience. I lo
 - 🌱 I’m currently learning Quantum Computing 
 - 👯 I’m looking to collaborate on Android apps 
 - 📫 How to reach me: faith.frontiers@gmail.com 
-- ⚡ Fun fact: I love talking in Batman's voice 
+- ⚡ Fun fact: I have read 700+ books in my lifetime.
+
+
+**Cool stuff which I have implemented for enterprise Android apps**
+- Conversational user experience chatbots
+- Offline rendering of maps using Open Street Maps.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/new-silvermoon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sagar-das-077a4a7b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/new_silvermoon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/silvermoon5692)  
