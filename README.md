@@ -2,7 +2,7 @@
 #### Computerphile, Bibliophile and Audiophile
 ![Computerphile, Bibliophile and Audiophile](https://github.com/new-silvermoon/new-silvermoon/blob/master/android-development-banner.jpg)
 
-A sophisticated individual with 6 years of software development experience. I love systems application development. My toolkit comprises of Android and Computer Vision.
+A sophisticated individual with 9 years of software development experience. I love systems application development. My toolkit comprises of Android and Computer Vision.
 
 **I talk to computers using**
 
