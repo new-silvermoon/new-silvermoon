@@ -43,6 +43,7 @@ A sophisticated individual with 9 years of software development experience. I lo
 **Cool stuff which I have implemented for enterprise Android apps**
 - Conversational user experience chatbots
 - Offline rendering of maps using Open Street Maps.
+- Integration of smart home devices
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/new-silvermoon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sagar-das-077a4a7b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/new_silvermoon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/silvermoon5692)  
